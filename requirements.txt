@@ -156,3 +156,4 @@ yapf==0.31.0
 zipp==3.4.1
 Cargo 
 Rust
+pywinpty
